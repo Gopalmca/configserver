@@ -1,1 +1,1 @@
-msg = hello Gopal
+server.url = 172.0.0.1:8383/development
